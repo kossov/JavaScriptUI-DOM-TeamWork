@@ -18,8 +18,8 @@ var GameDraw = ( function () {
 
     stage = new Kinetic.Stage( {
         container: 'kinetic-container',
-        width: 1680,
-        height: 1050,
+        width: 1361,
+        height: 639
     } );
 
     backgroundLayer = new Kinetic.Layer();
